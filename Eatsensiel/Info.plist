@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Karita.otf</string>
+		<string>Marmelad-Regular.ttf</string>
+		<string>Exo.ttf</string>
+		<string>Georama.ttf</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>fondBeige</string>
+		<key>UIImageName</key>
+		<string>LaunchScreenLogo</string>
+	</dict>
+</dict>
+</plist>
