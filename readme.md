@@ -27,7 +27,7 @@ Nous avons questionné la population sur les raisons qui poussent les gens à je
 
 - Page d'accueil : calendrier des produits arrivant à péremption.
 - Inventaire : permet de visualiser ce qu'il y a actuellement dans nos placacards, notre frigo et congélateur.
-- Menus : page permettant de trouver des recettes faciles à partir de ce qu'on a dans son frigo, sélectionner la quantité que l'on veut faire par menu, les sélectionner et gnérer une liste de courses en fonction de ce qu'il manque dans notre inventaire.
+- Menus : page permettant de trouver des recettes faciles à partir de ce qu'on a dans son frigo, sélectionner la quantité que l'on veut faire par menu, les sélectionner et gérer une liste de courses en fonction de ce qu'il manque dans notre inventaire.
 - Liste de courses : affiche la liste de cours générée. Possibilité de rajouter des éléments dans la liste.
 
 ### Exemple de pages
