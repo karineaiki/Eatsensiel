@@ -5,7 +5,7 @@ Rien n'est à jeter, tout est à compos(t)er
 ## Projet
 
 Eatsensiel est une application mobile native iOS qui propose une solution contre le gaspillage alimentaire.
-Cette application est le résultat d'un projet d'école réalisé en 8 jours (idée, étude de marché, framework, backlog, maquettage et développement)
+Cette application est le résultat d'un projet d'école réalisé en 8 jours (idée, étude de marché, wireframe, backlog, maquettage et développement)
 
 ### Contexte
 
