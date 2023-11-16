@@ -30,7 +30,12 @@ Nous avons questionné la population sur les raisons qui poussent les gens à je
 - Menus : page permettant de trouver des recettes faciles à partir de ce qu'on a dans son frigo, sélectionner la quantité que l'on veut faire par menu, les sélectionner et gnérer une liste de courses en fonction de ce qu'il manque dans notre inventaire.
 - Liste de courses : affiche la liste de cours générée. Possibilité de rajouter des éléments dans la liste.
 
-![alerte](Alerte_view.png)
-![DLC](DLC_view.png)
-![liste](Liste_courses_view.png)
+### Exemple de pages
+
+<img src="Alerte_view.png" alt="alerte" width="30%"> <img src="Inventaire_placard_view.png" alt="DLC" width="30%"> 
+
+<img src="DLC_view.png" alt="DLC" width="30%">  <img src="Liste_courses_view.png" alt="liste" width="30%">
+
+
+
  
